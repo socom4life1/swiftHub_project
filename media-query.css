@@ -1,0 +1,26 @@
+/* @media screen and (max-width: 1024px) {
+    .nav-div .nav-bar {
+      display: none;  
+      width: 100%;
+      flex-direction: column;
+      position: absolute;
+      top: 60px;
+      left: 0;
+     
+      padding: 20px 0;
+    }
+  
+    .nav-div .nav-bar.active {
+      display: block; 
+    }
+
+    .nav-div .nav-bar.inactive {
+        display: none;  
+      }
+  
+    .menu-icon {
+      display: block;
+      
+    }
+  }
+   */
